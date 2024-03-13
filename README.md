@@ -487,6 +487,7 @@ The following are the callbacks in detail:
 -------------------------
 -------------------------
 -------------------------
+# old documentation below 
 
 <u>didUpdateRelativeLocation</u>
 1. ```swift
