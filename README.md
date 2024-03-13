@@ -389,7 +389,7 @@ The following are the callbacks in detail:
     | wayfinding           | MistSDK.Mist.Wayfinding? | Information about wayfinding on the map.                                   |
     | latlngBr             | MistSDK.Mist.LatlngBr? | The bottom-right latitude and longitude coordinates of the map.           |
     | latlngTl             | MistSDK.Mist.LatlngTl? | The top-left latitude and longitude coordinates of the map.               |
-    | drInternal           | MistSDK.Mist.DRInternal? | Internal data related to dynamic refresh for the map.                      |
+    | drInternal           | MistSDK.Mist.DRInternal? | Internal data related to DR                      |
     | geoRefParamsv2       | MistSDK.Mist.GeoRefParamsV2? | Georeferencing parameters for the map.                                 |
     | orientation          | Int?                   | The orientation of the map.                                                 |
     | occupancyLimit       | Int64?                 | The occupancy limit of the map.                                             |
